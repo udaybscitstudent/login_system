@@ -1,6 +1,6 @@
 let btn = document.querySelector("button");
 let body = document.querySelector("body");
-btn.addEventListener("click",generateColor);
+btn.addEventListener("click",generateColor());
 
 function generateColor(){
     let red = Math.ceil(Math.random*255);

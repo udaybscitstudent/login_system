@@ -1,6 +1,7 @@
-*{
-    color:white;
-}
 button{
     background-color: black;
+    height: 40px;
+    width: 100px;
+    border: 1px cyan solid;
+    border-radius: 15px;
 }
